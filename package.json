@@ -1,0 +1,10 @@
+{
+  "name": "flk-247-voice-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.16.3",
+    "libsodium-wrappers": "^0.7.15"
+  }
+}
